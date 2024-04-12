@@ -1,0 +1,3 @@
+- Given a sequence of numbers $(a_{n})$, an expression of the form $a_1+a_2+a_3+\cdots+a_n$ is called a **series**.
+- The number $a_n$ is called the $n$-th term of the series.
+- The **sequence** of partial sums of a series is called a **sequence of partial sums**.
